@@ -1,2 +1,3 @@
-1483k  xeace.cn:8888
-992k  yujukoo.gicp.net:8888
+1812k  171.221.34.20:4022
+944k  xeace.cn:8888
+620k  yujukoo.gicp.net:8888
