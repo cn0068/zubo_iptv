@@ -1,2 +1,2 @@
-1037k  e1.woc.iiiya.cn:8888
-1018k  e2.woc.iiiya.cn:8888
+1051k  220.161.66.106:9999
+1050k  e2.woc.iiiya.cn:8888
